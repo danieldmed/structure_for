@@ -7,3 +7,4 @@ Este projeto em Java utiliza a estrutura de repetição for para criar um contad
 Este projeto em Java cria uma tabuada interativa utilizando a estrutura de repetição for. O sistema solicita que o usuário digite um número entre 1 e 10 e, em seguida, exibe a tabuada desse número. Caso o número digitado seja inválido (menor que 1 ou maior que 10), o programa pedirá ao usuário para inserir um número válido até que o número correto seja informado. A tabuada do número será então exibida.
 
 ## 3. StrcFor3
+Este projeto em Java utiliza a estrutura de repetição for para exibir uma tabela com os números e seus respectivos quadrados. O usuário digita um número inteiro, e o sistema exibe uma tabela que vai de 1 até o número fornecido, mostrando cada número e o seu quadrado correspondente. O objetivo do projeto é demonstrar o uso da estrutura for para gerar e exibir resultados com base na entrada do usuário.
